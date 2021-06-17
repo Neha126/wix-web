@@ -1,0 +1,196 @@
+html,body{
+    overflow-x: hidden;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+#top{
+    background-image: url("https://static.wixstatic.com/media/0784b1_eb1c49b2a1094974b2706f88f15a2052~mv2.jpg/v1/fill/w_1351,h_900,al_c,q_85,usm_0.66_1.00_0.01/0784b1_eb1c49b2a1094974b2706f88f15a2052~mv2.webp");
+    background-position: center;
+    background-size: cover;
+    height: 140vh;
+}
+#top h3{
+    font-family: cursive;
+    font-size: 60px;
+    color: white;
+    padding-left: 3%;
+    padding-top: 2;
+}
+#top h1{
+    color: white;
+    font-weight: bold;
+    font-size: 68px;
+    letter-spacing: -0.01em;
+    text-align: center;
+    padding-top: 8%;
+}
+.btn1{
+    color: white;
+    background-color: blue;
+    margin-left: 45%;
+    margin-top: 1%;    
+}
+.text{
+    padding-top: 7%;
+}
+.text h1{
+    vertical-align: baseline;
+    font-size: 64px;
+    font-weight: bold;
+}
+.text p{
+    vertical-align: baseline;
+    font-size: 18px;
+    padding-top: 2%;
+    padding-bottom: 3%;
+}
+.btn2{
+    color: white;
+    background-color: blue;
+}
+.image img{
+    width: 100%;
+}
+.image2 img{
+    width: 100%;
+    /* margin-left: -13%; */
+}
+.text2{
+    /* padding-left: 29%; */
+    padding-top: 16%;
+    padding-bottom: 4%;
+}
+.text2 h1{
+    font-weight: bold;
+    font-size: 64px;
+}
+.text2 p{
+    vertical-align: baseline;
+    font-size: 18px;
+    padding-top: 8%;
+    padding-bottom: 8%;
+}
+.btnn3{
+    color: white;
+    background-color: blue;
+}
+.btn3{
+    color: white;
+    background-color: blue;
+}
+.image3 img{
+    width: 100%;
+}
+.text3{
+    padding-top: 5%;
+}
+.text3 h1{
+    font-weight: bold;
+    font-size: 64px;
+    vertical-align: baseline;
+}
+.text3 p{
+    vertical-align: baseline;
+    font-size: 18px;
+    padding-top: 8%;
+    padding-bottom: 8%;
+}
+.image4 img{
+    width: 100%;
+}
+.text4{
+    padding-top: 8%;
+}
+.text4 h1{
+    font-weight: bold;
+    font-size: 64px;
+    vertical-align: baseline;
+}
+.text4 p{
+    vertical-align: baseline;
+    font-size: 18px;
+    padding-top: 8%;
+    padding-bottom: 8%;
+}
+#five{
+    padding-bottom: 10%;
+}
+.text5{
+    padding-top: 8%;
+    padding-bottom: 4%;
+}
+.text5 h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 68px;
+}
+.btnn{
+    margin-left: 40%;
+}
+.wix{
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 3%;
+    padding-top: 3%;
+}
+#end p{
+    text-align: center;
+}
+.fas{
+    color: red;
+}
+@media (max-width: 500px) {
+  .btnn{
+      margin-left: 30%;
+  }
+  .text4 h1{
+      text-align: center;
+  }
+  .text4 p{
+      text-align: center;
+  }
+  .btn3{
+      margin-left: 30%;
+  }
+  .text3 h1{
+    text-align: center;
+}
+.text3 p{
+    text-align: center;
+}
+.text2 h1{
+    text-align: center;
+}
+.text2 p{
+    text-align: center;
+}
+.text h1{
+    text-align: center;
+}
+.text p{
+    text-align: center;
+}
+.btn2{
+    margin-left: 30%;
+}
+.btn1{
+    margin-left: 35%;
+}
+#top{
+       width: 100%;
+    height: 120vh;
+}
+#top h3{
+    text-align: center;
+}
+#top h1{
+    color: white;
+    font-weight: bold;
+    font-size: 48px;
+    letter-spacing: -0.01em;
+    text-align: center;
+    padding-top: 38%;
+}
+    }
